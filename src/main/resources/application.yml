@@ -1,0 +1,8 @@
+---
+spring:   
+    profiles:
+        active: swagger
+       
+server:
+    contextPath: 
+    port: 8080
