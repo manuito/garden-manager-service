@@ -1,6 +1,6 @@
 package main
 
-// Gardn-manager : backend prototype
+// Garden-manager : backend prototype
 // Work in progress
 // TODO : add headers, doc ...
 
